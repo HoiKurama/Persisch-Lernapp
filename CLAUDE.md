@@ -42,6 +42,8 @@ npm run build             # Produktions-Build
 
 ## Git
 
-Dieses Projekt liegt im geteilten Root-Repo `Claude Projects` auf dem eigenen Branch
-`persisch-lernapp`. Root-Konventionen (Ordnernamen, Commit-Stil) gelten, siehe die CLAUDE.md
-im Wurzelordner.
+Dieses Projekt ist ein **eigenes Repository** (Branch `main`, Remote
+`github.com/HoiKurama/Persisch-Lernapp`). Das Root-Repo `Claude Projects` ignoriert den Ordner
+über seine `.gitignore` — dort also nie committen, sonst landet ein eingebettetes Repo im Root.
+Der ältere Stand liegt noch im Root-Repo unter `persisch-lernapp/` (Branch `persisch-lernapp`).
+Root-Konventionen (Commit-Stil) gelten, siehe die CLAUDE.md im Wurzelordner.

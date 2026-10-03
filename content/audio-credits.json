@@ -1,0 +1,234 @@
+[
+  {
+    "id": "begruessung-001-salam",
+    "label": "Hallo (salâm)",
+    "author": "Diako1971",
+    "source": "https://commons.wikimedia.org/wiki/File:Fa-%D8%B3%D9%84%D8%A7%D9%85.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "begruessung-003-bale",
+    "label": "Ja (bale)",
+    "author": "Diako1971",
+    "source": "https://commons.wikimedia.org/wiki/File:Fa-%D8%A8%D9%84%D9%87.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "begruessung-004-na",
+    "label": "Nein (na)",
+    "author": "Diako1971",
+    "source": "https://commons.wikimedia.org/wiki/File:Fa-%D9%86%D9%87.ogg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "essen-013-chai",
+    "label": "Tee (chây)",
+    "author": "Speaker: Darafsh\nRecorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%DA%86%D8%A7%DB%8C.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "schule-011-ketab",
+    "label": "Buch (ketâb)",
+    "author": "Speaker: Darafsh\nRecorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%DA%A9%D8%AA%D8%A7%D8%A8.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "zahlen-001-yek",
+    "label": "eins (yek)",
+    "author": "Speaker: Berrely\nRecorder: Berrely",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Berrely-%DB%8C%DA%A9.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "begruessung-002-khodahafez",
+    "label": "Auf Wiedersehen (khodâhâfez)",
+    "author": "Speaker: Afsham23 Recorder: Afsham23",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Afsham23-%D8%AE%D9%8F%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D9%90%D8%B8.wav",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "alltag-001-ab",
+    "label": "Wasser (âb)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%A2%D8%A8.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-004-otagh",
+    "label": "Zimmer (otâgh)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%A7%D8%AA%D8%A7%D9%82.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-007-miz",
+    "label": "Tisch (miz)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D9%85%DB%8C%D8%B2.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-008-sandali",
+    "label": "Stuhl (sandali)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%B5%D9%86%D8%AF%D9%84%DB%8C.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-014-kelid",
+    "label": "Schlüssel (kelid)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%DA%A9%D9%84%DB%8C%D8%AF.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-018-pul",
+    "label": "Geld (pul)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D9%BE%D9%88%D9%84.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "essen-003-berenj",
+    "label": "Reis (roh/als Zutat) (berenj)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%A8%D8%B1%D9%86%D8%AC.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "essen-024-tond",
+    "label": "scharf, würzig (tond)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AA%D9%86%D8%AF.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "essen-029-kabab",
+    "label": "Kebab, Spieß (kabâb)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%DA%A9%D8%A8%D8%A7%D8%A8.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "familie-003-khahar",
+    "label": "Schwester (khâhar)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AE%D9%88%D8%A7%D9%87%D8%B1.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "familie-005-pesar",
+    "label": "Sohn, Junge (pesar)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D9%BE%D8%B3%D8%B1.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "notfall-005-daru",
+    "label": "Medikament (dâru)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AF%D8%A7%D8%B1%D9%88.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "reisen-008-taxi",
+    "label": "Taxi (tâksi)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "schule-001-madrese",
+    "label": "Schule (madrese)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D9%85%D8%AF%D8%B1%D8%B3%D9%87.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "schule-002-moallem",
+    "label": "Lehrer, Lehrerin (moallem)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D9%85%D8%B9%D9%84%D9%85.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-021-bozorg",
+    "label": "groß (bozorg)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%A8%D8%B2%D8%B1%DA%AF.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "alltag-023-khub",
+    "label": "gut (khub)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AE%D9%88%D8%A8.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "essen-022-shirin",
+    "label": "süß (shirin)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%B4%DB%8C%D8%B1%DB%8C%D9%86.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "essen-023-torsh",
+    "label": "sauer (torsh)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AA%D8%B1%D8%B4.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "familie-002-pedar",
+    "label": "Vater (bâbâ)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%A8%D8%A7%D8%A8%D8%A7.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "familie-006-dokhtar",
+    "label": "Tochter, Mädchen (dokhtar)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%AF%D8%AE%D8%AA%D8%B1.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "familie-007-zan",
+    "label": "Frau, Ehefrau (zan)",
+    "author": "Speaker: Darafsh Recorder: Darafsh",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q9168_(fas)-Darafsh-%D8%B2%D9%86.wav",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+]
