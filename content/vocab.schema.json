@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "VocabEntry",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "category", "german", "transliterationColloquial", "audio", "source", "confidence"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "category": {
+        "type": "string",
+        "enum": [
+          "begruessung-small-talk",
+          "alltag-haus",
+          "reisen-unterwegs",
+          "essen-trinken",
+          "zahlen-zeit",
+          "familie-beziehungen",
+          "gefuehle-meinungen",
+          "schule-beruf",
+          "notfall-gesundheit"
+        ]
+      },
+      "german": { "type": "string", "minLength": 1 },
+      "transliterationColloquial": { "type": "string", "minLength": 1 },
+      "transliterationLiterary": { "type": "string" },
+      "exampleSentence": {
+        "type": "object",
+        "required": ["transliteration", "german"],
+        "additionalProperties": false,
+        "properties": {
+          "transliteration": { "type": "string" },
+          "german": { "type": "string" },
+          "source": { "type": "string", "enum": ["fsi-dli", "wiktionary", "tatoeba", "curated"] },
+          "tatoebaId": { "type": "string" }
+        }
+      },
+      "audio": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "dilara": { "type": "string" },
+          "farid": { "type": "string" },
+          "reference": { "type": "string" }
+        }
+      },
+      "source": {
+        "type": "object",
+        "required": ["origin"],
+        "additionalProperties": false,
+        "properties": {
+          "origin": { "type": "string", "enum": ["fsi-dli", "wiktionary", "tatoeba", "curated"] },
+          "note": { "type": "string" }
+        }
+      },
+      "confidence": { "type": "string", "enum": ["confirmed", "uncertain"] },
+      "uncertaintyNote": { "type": "string" },
+      "tags": { "type": "array", "items": { "type": "string" } }
+    },
+    "allOf": [
+      {
+        "if": { "properties": { "confidence": { "const": "uncertain" } } },
+        "then": { "required": ["uncertaintyNote"] }
+      }
+    ]
+  }
+}

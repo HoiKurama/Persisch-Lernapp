@@ -1,0 +1,261 @@
+[
+  {
+    "id": "reisen-001-forudgah",
+    "category": "reisen-unterwegs",
+    "german": "Flughafen",
+    "transliterationColloquial": "forudgâh",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft (u.a. Preply Farsi-Airport-Vokabular), siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-002-havapeyma",
+    "category": "reisen-unterwegs",
+    "german": "Flugzeug",
+    "transliterationColloquial": "havâpeymâ",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-003-parvaz",
+    "category": "reisen-unterwegs",
+    "german": "Flug",
+    "transliterationColloquial": "parvâz",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-004-bilit",
+    "category": "reisen-unterwegs",
+    "german": "Ticket, Fahrkarte",
+    "transliterationColloquial": "bilit",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-005-ghatar",
+    "category": "reisen-unterwegs",
+    "german": "Zug",
+    "transliterationColloquial": "ghatâr",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-006-istgah",
+    "category": "reisen-unterwegs",
+    "german": "Bahnhof, Haltestelle",
+    "transliterationColloquial": "istgâh",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-007-otobus",
+    "category": "reisen-unterwegs",
+    "german": "Bus",
+    "transliterationColloquial": "otobus",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-008-taxi",
+    "category": "reisen-unterwegs",
+    "german": "Taxi",
+    "transliterationColloquial": "tâksi",
+    "audio": { "reference": "audio/reference/reisen-008-taxi.wav" },
+    "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-009-metro",
+    "category": "reisen-unterwegs",
+    "german": "U-Bahn",
+    "transliterationColloquial": "metro",
+    "audio": {}, "source": { "origin": "curated", "note": "In Teheran gebraeuchliches Lehnwort fuer die U-Bahn." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-010-chamedun",
+    "category": "reisen-unterwegs",
+    "german": "Koffer",
+    "transliterationColloquial": "chamedun",
+    "transliterationLiterary": "chamedân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-011-pasport",
+    "category": "reisen-unterwegs",
+    "german": "Reisepass",
+    "transliterationColloquial": "pâsport",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-012-vize",
+    "category": "reisen-unterwegs",
+    "german": "Visum",
+    "transliterationColloquial": "vize",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-013-hotel",
+    "category": "reisen-unterwegs",
+    "german": "Hotel",
+    "transliterationColloquial": "hotel",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort, unveraendert uebernommen." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-014-otaghkhali",
+    "category": "reisen-unterwegs",
+    "german": "freies Zimmer",
+    "transliterationColloquial": "otâgh-e khâli",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengige Phrase bei der Hotelsuche." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-015-kojast",
+    "category": "reisen-unterwegs",
+    "german": "Wo ist ...?",
+    "transliterationColloquial": "... kojâst?",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundfrage fuer Orientierung unterwegs." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-016-chetorberam",
+    "category": "reisen-unterwegs",
+    "german": "Wie komme ich zu ...?",
+    "transliterationColloquial": "chetor beram be ...?",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundfrage fuer Wegbeschreibungen." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-017-rast",
+    "category": "reisen-unterwegs",
+    "german": "rechts",
+    "transliterationColloquial": "râst",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Richtungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-018-chap",
+    "category": "reisen-unterwegs",
+    "german": "links",
+    "transliterationColloquial": "chap",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Richtungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-019-mostaghim",
+    "category": "reisen-unterwegs",
+    "german": "geradeaus",
+    "transliterationColloquial": "mostaghim",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Richtungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-020-nazdik",
+    "category": "reisen-unterwegs",
+    "german": "nah",
+    "transliterationColloquial": "nazdik",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Richtungen/Entfernung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-021-dur",
+    "category": "reisen-unterwegs",
+    "german": "weit, fern",
+    "transliterationColloquial": "dur",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Richtungen/Entfernung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-022-naghshe",
+    "category": "reisen-unterwegs",
+    "german": "Stadtplan, Karte",
+    "transliterationColloquial": "naghshe",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-023-mahalle",
+    "category": "reisen-unterwegs",
+    "german": "Stadtviertel",
+    "transliterationColloquial": "mahalle",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-024-meydun",
+    "category": "reisen-unterwegs",
+    "german": "Platz (öffentlicher Ort)",
+    "transliterationColloquial": "meydun",
+    "transliterationLiterary": "meydân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun), z.B. Meydun-e Azadi." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-025-jadde",
+    "category": "reisen-unterwegs",
+    "german": "Straße, Landstraße",
+    "transliterationColloquial": "jadde",
+    "audio": {}, "source": { "origin": "curated", "note": "Fuer Ueberlandstrassen, im Unterschied zu khiyâbun (Stadtstrasse)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-026-rahnamayi",
+    "category": "reisen-unterwegs",
+    "german": "Wegbeschreibung, Anleitung",
+    "transliterationColloquial": "rahnamâyi",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-027-bilityektarafe",
+    "category": "reisen-unterwegs",
+    "german": "einfache Fahrkarte",
+    "transliterationColloquial": "bilit-e yektarafe",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung aus bilit (Ticket) + yektarafe (einseitig)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-028-raftobargasht",
+    "category": "reisen-unterwegs",
+    "german": "Hin- und Rückfahrkarte",
+    "transliterationColloquial": "bilit-e raft-o-bargasht",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung aus bilit + raft-o-bargasht (Hin-und-Zurueck). Als Standardbegriff bestaetigt durch Talkpal und die PersianPod101-Survival-Phrases-Lektion zu Zugreisen; 'bilit-e do-tarafe' liess sich in keiner Quelle als gebraeuchliche Alternative finden." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-029-takhir",
+    "category": "reisen-unterwegs",
+    "german": "Verspätung",
+    "transliterationColloquial": "ta'khir",
+    "audio": {}, "source": { "origin": "curated", "note": "Reisewortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-030-residan",
+    "category": "reisen-unterwegs",
+    "german": "ankommen",
+    "transliterationColloquial": "residan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundverb Bewegung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-031-harekatkardan",
+    "category": "reisen-unterwegs",
+    "german": "abfahren, losfahren",
+    "transliterationColloquial": "harekat kardan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundverb Bewegung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "reisen-032-gomshodam",
+    "category": "reisen-unterwegs",
+    "german": "Ich habe mich verlaufen",
+    "transliterationColloquial": "gom shodam",
+    "audio": {}, "source": { "origin": "curated", "note": "Wichtige Notfallphrase unterwegs, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

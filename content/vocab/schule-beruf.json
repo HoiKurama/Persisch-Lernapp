@@ -1,0 +1,269 @@
+[
+  {
+    "id": "schule-001-madrese",
+    "category": "schule-beruf",
+    "german": "Schule",
+    "transliterationColloquial": "madrese",
+    "audio": { "reference": "audio/reference/schule-001-madrese.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Schule, direkt fuer Lehrer-Kontext relevant, siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-002-moallem",
+    "category": "schule-beruf",
+    "german": "Lehrer, Lehrerin",
+    "transliterationColloquial": "moallem",
+    "audio": { "reference": "audio/reference/schule-002-moallem.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Schule, direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-003-daneshamuz",
+    "category": "schule-beruf",
+    "german": "Schüler, Schülerin",
+    "transliterationColloquial": "dânesh-âmuz",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung dânesh (Wissen) + âmuz (lernend), direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-004-daneshgah",
+    "category": "schule-beruf",
+    "german": "Universität",
+    "transliterationColloquial": "dâneshgâh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Bildung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-005-daneshjoo",
+    "category": "schule-beruf",
+    "german": "Student, Studentin",
+    "transliterationColloquial": "dâneshju",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Bildung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-006-kelas",
+    "category": "schule-beruf",
+    "german": "Klasse, Unterricht",
+    "transliterationColloquial": "kelâs",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-007-dars",
+    "category": "schule-beruf",
+    "german": "Lektion, Unterricht(sstoff)",
+    "transliterationColloquial": "dars",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-008-emtehan",
+    "category": "schule-beruf",
+    "german": "Prüfung",
+    "transliterationColloquial": "emtehân",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-009-tamrin",
+    "category": "schule-beruf",
+    "german": "Übung",
+    "transliterationColloquial": "tamrin",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-010-mashgh",
+    "category": "schule-beruf",
+    "german": "Hausaufgabe",
+    "transliterationColloquial": "mashgh",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-011-ketab",
+    "category": "schule-beruf",
+    "german": "Buch",
+    "transliterationColloquial": "ketâb",
+    "audio": { "reference": "audio/reference/schule-011-ketab.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Schule, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-012-daftar",
+    "category": "schule-beruf",
+    "german": "Heft",
+    "transliterationColloquial": "daftar",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Schule, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-013-khodkar",
+    "category": "schule-beruf",
+    "german": "Kugelschreiber",
+    "transliterationColloquial": "khodkâr",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'selbst-wirkend', Standardwort fuer Kugelschreiber." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-014-medad",
+    "category": "schule-beruf",
+    "german": "Bleistift",
+    "transliterationColloquial": "medâd",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Schule, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-015-takhte",
+    "category": "schule-beruf",
+    "german": "(Wand-)Tafel",
+    "transliterationColloquial": "takhte",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-016-zang",
+    "category": "schule-beruf",
+    "german": "Klingel(zeichen), Pausenglocke",
+    "transliterationColloquial": "zang",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-017-tafrih",
+    "category": "schule-beruf",
+    "german": "Pause",
+    "transliterationColloquial": "tafrih",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-018-nomre",
+    "category": "schule-beruf",
+    "german": "Note (Schulnote)",
+    "transliterationColloquial": "nomre",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-019-sherkat",
+    "category": "schule-beruf",
+    "german": "Firma, Unternehmen",
+    "transliterationColloquial": "sherkat",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-020-kar",
+    "category": "schule-beruf",
+    "german": "Arbeit",
+    "transliterationColloquial": "kâr",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-021-hoghugh",
+    "category": "schule-beruf",
+    "german": "Gehalt",
+    "transliterationColloquial": "hoghugh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-022-rais",
+    "category": "schule-beruf",
+    "german": "Chef, Chefin",
+    "transliterationColloquial": "ra'is",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-023-jalase",
+    "category": "schule-beruf",
+    "german": "Besprechung, Sitzung",
+    "transliterationColloquial": "jalase",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-024-gozaresh",
+    "category": "schule-beruf",
+    "german": "Bericht",
+    "transliterationColloquial": "gozâresh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-025-masuliyat",
+    "category": "schule-beruf",
+    "german": "Verantwortung",
+    "transliterationColloquial": "mas'uliyat",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-026-tajrobe",
+    "category": "schule-beruf",
+    "german": "Erfahrung",
+    "transliterationColloquial": "tajrobe",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-027-maharat",
+    "category": "schule-beruf",
+    "german": "Fähigkeit",
+    "transliterationColloquial": "mahârat",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beruf, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-028-amuzesh",
+    "category": "schule-beruf",
+    "german": "Ausbildung, Training",
+    "transliterationColloquial": "âmuzesh",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-029-sabr",
+    "category": "schule-beruf",
+    "german": "Geduld",
+    "transliterationColloquial": "sabr",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-030-tozihdadan",
+    "category": "schule-beruf",
+    "german": "erklären",
+    "transliterationColloquial": "towzih dâdan",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-031-soalporsidan",
+    "category": "schule-beruf",
+    "german": "fragen",
+    "transliterationColloquial": "so'âl porsidan",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-032-javabdadan",
+    "category": "schule-beruf",
+    "german": "antworten",
+    "transliterationColloquial": "javâb dâdan",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "schule-033-fahmidan",
+    "category": "schule-beruf",
+    "german": "verstehen",
+    "transliterationColloquial": "fahmidan",
+    "audio": {}, "source": { "origin": "curated", "note": "Direkt fuer Lehrer-Kontext relevant." },
+    "confidence": "confirmed"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "id": "gefuehle-001-khoshhal",
+    "category": "gefuehle-meinungen",
+    "german": "glücklich",
+    "transliterationColloquial": "khoshhâl",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Gefuehle, gegen mehrere Online-Ressourcen geprueft (u.a. PolyglotClub, Talkpal Emotionsvokabular), siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-002-narahat",
+    "category": "gefuehle-meinungen",
+    "german": "traurig, verärgert, unwohl",
+    "transliterationColloquial": "nârâhat",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Deckt je nach Kontext traurig/verstimmt/unwohl ab, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-003-khaste",
+    "category": "gefuehle-meinungen",
+    "german": "müde",
+    "transliterationColloquial": "khaste",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Gefuehle, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-004-asabani",
+    "category": "gefuehle-meinungen",
+    "german": "wütend",
+    "transliterationColloquial": "asabâni",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Gefuehle, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-005-negaran",
+    "category": "gefuehle-meinungen",
+    "german": "besorgt",
+    "transliterationColloquial": "negarân",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Gefuehle, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-006-tarsidan",
+    "category": "gefuehle-meinungen",
+    "german": "Angst haben",
+    "transliterationColloquial": "tarsidan",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundverb Gefuehle, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-007-delamtangshode",
+    "category": "gefuehle-meinungen",
+    "german": "ich vermisse (jemanden/etwas)",
+    "transliterationColloquial": "delam barâsh tang shode",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Idiomatischer Ausdruck (woertlich 'mein Herz ist eng dafuer geworden'), sehr gebraeuchlich." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-008-aslan",
+    "category": "gefuehle-meinungen",
+    "german": "überhaupt (nicht)",
+    "transliterationColloquial": "aslan",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Verstaerkendes Adverb, meist mit Verneinung." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-009-movafegham",
+    "category": "gefuehle-meinungen",
+    "german": "ich bin einverstanden, ich stimme zu",
+    "transliterationColloquial": "movâfegham",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-010-fekrmikonam",
+    "category": "gefuehle-meinungen",
+    "german": "ich denke, dass ...",
+    "transliterationColloquial": "fekr mikonam",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundfloskel zur Meinungsaeusserung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-011-nazar",
+    "category": "gefuehle-meinungen",
+    "german": "Meinung",
+    "transliterationColloquial": "nazar",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-012-dustdashtan",
+    "category": "gefuehle-meinungen",
+    "german": "mögen, lieben",
+    "transliterationColloquial": "dust dâshtan",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundverb, sowohl fuer 'mögen' als auch romantisch 'lieben' verwendet." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-013-motmaenam",
+    "category": "gefuehle-meinungen",
+    "german": "ich bin sicher",
+    "transliterationColloquial": "motma'enam",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-014-shakdaram",
+    "category": "gefuehle-meinungen",
+    "german": "ich bezweifle, ich zweifle",
+    "transliterationColloquial": "shak dâram",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-015-khoobe",
+    "category": "gefuehle-meinungen",
+    "german": "(das ist) gut, ok",
+    "transliterationColloquial": "khube",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Sehr gebraeuchliche Zustimmungsformel im Gespraech." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-016-badnist",
+    "category": "gefuehle-meinungen",
+    "german": "nicht schlecht",
+    "transliterationColloquial": "bad nist",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Gaengige zurueckhaltende Zustimmungsformel." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-017-ajib",
+    "category": "gefuehle-meinungen",
+    "german": "seltsam",
+    "transliterationColloquial": "ajib",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-018-jaleb",
+    "category": "gefuehle-meinungen",
+    "german": "interessant",
+    "transliterationColloquial": "jaleb",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-019-moshkel",
+    "category": "gefuehle-meinungen",
+    "german": "Problem",
+    "transliterationColloquial": "moshkel",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-020-asun",
+    "category": "gefuehle-meinungen",
+    "german": "einfach",
+    "transliterationColloquial": "âsun",
+    "transliterationLiterary": "âsân",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Kolloquiale Form per produktivem -ân-zu-un Muster abgeleitet (wie nân/nun). Direkt belegt durch einen Persisch-Stilratgeber ('sound more natural in Persian'), der genau dieses Wort als Beispiel fuer die Verschiebung nennt: 'that exam wasn't âsân (easy) but âsoon'." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-021-sakht",
+    "category": "gefuehle-meinungen",
+    "german": "schwer, schwierig",
+    "transliterationColloquial": "sakht",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-022-mohem",
+    "category": "gefuehle-meinungen",
+    "german": "wichtig",
+    "transliterationColloquial": "mohem",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-023-benazarmiad",
+    "category": "gefuehle-meinungen",
+    "german": "es scheint, es sieht so aus",
+    "transliterationColloquial": "be nazar miâd",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Sehr gebraeuchliche Floskel zur vorsichtigen Meinungsaeusserung." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-024-rahat",
+    "category": "gefuehle-meinungen",
+    "german": "bequem, entspannt",
+    "transliterationColloquial": "râhat",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-025-khejalat",
+    "category": "gefuehle-meinungen",
+    "german": "ich schäme mich, ich bin verlegen",
+    "transliterationColloquial": "khejâlat mikesham",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Gaengiger Ausdruck fuer Verlegenheit/Scham." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-026-taajob",
+    "category": "gefuehle-meinungen",
+    "german": "ich war erstaunt",
+    "transliterationColloquial": "ta'ajjob kardam",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Gaengiger Ausdruck fuer Erstaunen." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-027-omidvaram",
+    "category": "gefuehle-meinungen",
+    "german": "ich hoffe",
+    "transliterationColloquial": "omidvâram",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-028-dustnadaram",
+    "category": "gefuehle-meinungen",
+    "german": "ich mag (das) nicht",
+    "transliterationColloquial": "dust nadâram",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Verneinte Form von dust dâshtan." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-029-mohemnist",
+    "category": "gefuehle-meinungen",
+    "german": "macht nichts, ist nicht wichtig",
+    "transliterationColloquial": "mohem nist",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Gaengige beschwichtigende Floskel." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "gefuehle-030-khoshbakhtane",
+    "category": "gefuehle-meinungen",
+    "german": "glücklicherweise",
+    "transliterationColloquial": "khoshbakhtâne",
+    "audio": {},
+    "source": { "origin": "curated", "note": "Grundwortschatz Meinungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

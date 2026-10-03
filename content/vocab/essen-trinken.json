@@ -1,0 +1,266 @@
+[
+  {
+    "id": "essen-001-ghaza",
+    "category": "essen-trinken",
+    "german": "Essen (allgemein)",
+    "transliterationColloquial": "ghazâ",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft, siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-002-nushidan",
+    "category": "essen-trinken",
+    "german": "trinken",
+    "transliterationColloquial": "nushidan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundverb, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-003-berenj",
+    "category": "essen-trinken",
+    "german": "Reis (roh/als Zutat)",
+    "transliterationColloquial": "berenj",
+    "audio": { "reference": "audio/reference/essen-003-berenj.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-004-gusht",
+    "category": "essen-trinken",
+    "german": "Fleisch",
+    "transliterationColloquial": "gusht",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-005-morgh",
+    "category": "essen-trinken",
+    "german": "Huhn",
+    "transliterationColloquial": "morgh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-006-sabzi",
+    "category": "essen-trinken",
+    "german": "Gemüse, Kräuter",
+    "transliterationColloquial": "sabzi",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-007-mive",
+    "category": "essen-trinken",
+    "german": "Obst",
+    "transliterationColloquial": "mive",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-008-sib",
+    "category": "essen-trinken",
+    "german": "Apfel",
+    "transliterationColloquial": "sib",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-009-resturan",
+    "category": "essen-trinken",
+    "german": "Restaurant",
+    "transliterationColloquial": "resturân",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-010-menu",
+    "category": "essen-trinken",
+    "german": "Speisekarte",
+    "transliterationColloquial": "menu",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-011-surathesab",
+    "category": "essen-trinken",
+    "german": "Rechnung",
+    "transliterationColloquial": "surat-hesâb",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengiges Wort im Restaurant, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-012-khoshmaze",
+    "category": "essen-trinken",
+    "german": "lecker",
+    "transliterationColloquial": "khoshmaze",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-013-chai",
+    "category": "essen-trinken",
+    "german": "Tee",
+    "transliterationColloquial": "chây",
+    "exampleSentence": { "transliteration": "ye chây lotfan", "german": "Einen Tee, bitte.", "source": "curated" },
+    "audio": { "reference": "audio/reference/essen-013-chai.wav" },
+    "source": { "origin": "curated", "note": "Zentrales Alltagsgetraenk, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-014-ghahve",
+    "category": "essen-trinken",
+    "german": "Kaffee",
+    "transliterationColloquial": "ghahve",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-015-shekar",
+    "category": "essen-trinken",
+    "german": "Zucker",
+    "transliterationColloquial": "shekar",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-016-namak",
+    "category": "essen-trinken",
+    "german": "Salz",
+    "transliterationColloquial": "namak",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-017-sobhune",
+    "category": "essen-trinken",
+    "german": "Frühstück",
+    "transliterationColloquial": "sobhune",
+    "transliterationLiterary": "sobhâne",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -âne zu -une (wie khâne/khune)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-018-nahar",
+    "category": "essen-trinken",
+    "german": "Mittagessen",
+    "transliterationColloquial": "nahâr",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-019-sham",
+    "category": "essen-trinken",
+    "german": "Abendessen",
+    "transliterationColloquial": "shâm",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-020-gorosne",
+    "category": "essen-trinken",
+    "german": "hungrig",
+    "transliterationColloquial": "gorosne",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-021-teshne",
+    "category": "essen-trinken",
+    "german": "durstig",
+    "transliterationColloquial": "teshne",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-022-shirin",
+    "category": "essen-trinken",
+    "german": "süß",
+    "transliterationColloquial": "shirin",
+    "audio": { "reference": "audio/reference/essen-022-shirin.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-023-torsh",
+    "category": "essen-trinken",
+    "german": "sauer",
+    "transliterationColloquial": "torsh",
+    "audio": { "reference": "audio/reference/essen-023-torsh.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-024-tond",
+    "category": "essen-trinken",
+    "german": "scharf, würzig",
+    "transliterationColloquial": "tond",
+    "audio": { "reference": "audio/reference/essen-024-tond.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-025-ash",
+    "category": "essen-trinken",
+    "german": "dicke Suppe (persisches Gericht)",
+    "transliterationColloquial": "âsh",
+    "audio": {}, "source": { "origin": "curated", "note": "Landestypisches Gericht, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-026-tokhmemorgh",
+    "category": "essen-trinken",
+    "german": "Ei",
+    "transliterationColloquial": "tokhm-e morgh",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'Ei des Huhns', gaengiges Wort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-027-panir",
+    "category": "essen-trinken",
+    "german": "Käse",
+    "transliterationColloquial": "panir",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-028-mast",
+    "category": "essen-trinken",
+    "german": "Joghurt",
+    "transliterationColloquial": "mâst",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-029-kabab",
+    "category": "essen-trinken",
+    "german": "Kebab, Spieß",
+    "transliterationColloquial": "kabâb",
+    "audio": { "reference": "audio/reference/essen-029-kabab.wav" },
+    "source": { "origin": "curated", "note": "Landestypisches Gericht, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-030-chelo",
+    "category": "essen-trinken",
+    "german": "gedämpfter Reis (als Beilage)",
+    "transliterationColloquial": "chelo",
+    "audio": {}, "source": { "origin": "curated", "note": "Landestypische Beilage, z.B. chelo kabâb." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-031-giyahi",
+    "category": "essen-trinken",
+    "german": "vegetarisch",
+    "transliterationColloquial": "giyâhi",
+    "audio": {}, "source": { "origin": "curated", "note": "Nuetzlich fuer Bestellungen im Restaurant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "essen-032-botri",
+    "category": "essen-trinken",
+    "german": "Flasche",
+    "transliterationColloquial": "botri",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Essen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

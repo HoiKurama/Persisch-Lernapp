@@ -1,0 +1,76 @@
+.app-shell { min-height: 100dvh; max-width: 980px; margin: auto; width: 100%; display: flex; flex-direction: column; }
+.app-header { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: max(22px, env(safe-area-inset-top)) 28px 22px; border-bottom: 1px solid var(--color-border); }
+.brand { display: flex; gap: 14px; align-items: center; color: var(--color-primary-dark); text-decoration: none; font-family: Georgia, serif; font-size: 2rem; font-weight: bold; }
+.brand span { font: 500 .8rem var(--font-sans); border-left: 1px solid var(--color-border); padding-left: 14px; color: var(--color-text-muted); }
+.header-note { font-size: .75rem; color: var(--color-text-muted); }
+.app-main { flex: 1; min-width: 0; padding: 30px 28px 38px; }
+.app-loading { padding: 64px 16px; text-align: center; }
+.view { display: flex; flex-direction: column; gap: 22px; }
+.view-header h1 { font-size: clamp(1.65rem, 4vw, 2.3rem); letter-spacing: -.04em; }
+.view-header p { margin-bottom: 0; }
+.eyebrow { font-size: .68rem; font-weight: 750; letter-spacing: .15em; color: var(--color-primary-dark); margin-bottom: 12px; }
+.muted { color: var(--color-text-muted); }
+.small { font-size: .8rem; margin-top: 12px; }
+.hero { padding: 24px 0 14px; position: relative; }
+.hero h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 500; font-size: clamp(2.3rem, 5.8vw, 3.8rem); line-height: 1.1; letter-spacing: -.04em; margin-bottom: 20px; }
+.hero > p:not(.eyebrow) { color: var(--color-text-muted); line-height: 1.7; }
+.hero-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+.hero-tags span { font-size: .71rem; padding: 6px 12px; border-radius: 30px; border: 1px solid var(--color-border); color: var(--color-text-muted); }
+.section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+.section-heading h2 { font-size: 1.1rem; }
+.section-heading > span { font-size: .8rem; }
+.mode-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.mode-grid .card { display: flex; flex-direction: column; align-items: start; gap: 10px; }
+.mode-grid .card > .btn { margin-top: auto; }
+.mode-symbol { font-size: 2rem; height: 54px; width: 54px; display: grid; place-items: center; background: var(--color-success-bg); color: var(--color-primary-dark); border-radius: 16px; margin-bottom: 5px; }
+.mode-meta { font-size: .75rem; color: var(--color-text-muted); }
+.learning-tip { border-left: 3px solid var(--color-primary); padding: 8px 0 8px 22px; margin: 8px 0; }
+.learning-tip ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; color: var(--color-text-muted); font-size: .9rem; }
+.learning-tip strong { color: var(--color-text); }
+.notice { padding: 18px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 14px; font-size: .85rem; }
+.notice p { margin: 8px 0 0; color: var(--color-text-muted); }
+.tab-nav { position: sticky; bottom: 0; z-index: 5; display: flex; background: var(--color-surface); border-top: 1px solid var(--color-border); padding: 8px 12px max(8px, env(safe-area-inset-bottom)); }
+.tab-nav button { flex: 1; min-height: 58px; border: 0; border-radius: 12px; background: none; color: var(--color-text-muted); cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; }
+.tab-icon { font-size: 1.35rem; line-height: 1; }
+.tab-label { font-size: .7rem; font-weight: 600; }
+.tab-nav button[aria-current='page'] { background: var(--color-success-bg); color: var(--color-primary-dark); }
+.field-label { display: grid; gap: 7px; font-size: .8rem; font-weight: 600; }
+.checkbox-label { display: flex; align-items: center; gap: 10px; font-size: .8rem; min-height: 44px; cursor: pointer; }
+.checkbox-label input { width: 20px; height: 20px; min-height: 20px; padding: 0; accent-color: var(--color-primary); flex-shrink: 0; }
+.practice-formats { display: flex; flex-wrap: wrap; gap: 8px; }
+.situation-context { border-left: 3px solid var(--color-primary); padding: 4px 0 4px 16px; margin-bottom: 24px; }
+.situation-context p { margin-bottom: 0; }
+input, select { width: 100%; min-height: 48px; padding: 12px; border: 1px solid var(--color-border); background: var(--color-surface); color: var(--color-text); border-radius: 12px; font: inherit; }
+.action-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 16px 0; }
+.action-row select { width: auto; max-width: 100%; }
+.answer-grid { display: grid; gap: 12px; margin-top: 22px; }
+.answer-feedback { border-top: 1px solid var(--color-border); margin-top: 24px; padding-top: 22px; }
+.answer-feedback strong { display: block; margin-bottom: 10px; }
+.prompt-text { font-size: clamp(1.5rem, 4vw, 2.2rem); margin-bottom: 18px; }
+.transliteration { font-family: Georgia, serif; font-size: 1.65rem; margin: 16px 0; }
+.error-text { color: var(--color-danger); }
+.recording-status { color: var(--color-danger); font-weight: 650; }
+.recording-playback { display: grid; gap: 14px; margin: 20px 0; }
+.recording-playback audio { width: 100%; }
+details summary { cursor: pointer; min-height: 44px; padding: 12px 0; }
+.word-list { border: 1px solid var(--color-border); border-radius: 18px; overflow: hidden; }
+.word-entry { background: var(--color-surface); padding: 6px 20px; border-bottom: 1px solid var(--color-border); }
+.word-entry:last-child { border-bottom: 0; }
+.word-entry summary { font-weight: 600; }
+.word-entry summary span { display: block; font-size: .72rem; font-weight: 400; margin-top: 4px; }
+.word-entry[open] { padding-bottom: 20px; }
+.stats-row { display: grid; grid-template-columns: minmax(0, 1fr) 70px 80px; gap: 8px; padding: 12px 0; border-bottom: 1px solid var(--color-border); font-size: .8rem; }
+.stats-row > :not(:first-child) { text-align: right; }
+.stats-table { margin-top: 16px; }
+.card > :last-child { margin-bottom: 0; }
+@media (max-width: 600px) {
+  .app-header { padding: max(16px, env(safe-area-inset-top)) 18px 16px; }
+  .header-note { display: none; }
+  .app-main { padding: 20px 16px 28px; }
+  .mode-grid { grid-template-columns: 1fr; }
+  .hero { padding-top: 10px; }
+  .card { padding: 22px; }
+  .tab-nav { padding-left: 4px; padding-right: 4px; }
+  .tab-label { font-size: .65rem; }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; scroll-behavior: auto !important; } }

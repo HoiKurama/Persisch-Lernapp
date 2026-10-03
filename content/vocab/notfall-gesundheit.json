@@ -1,0 +1,264 @@
+[
+  {
+    "id": "notfall-001-komak",
+    "category": "notfall-gesundheit",
+    "german": "Hilfe",
+    "transliterationColloquial": "komak",
+    "exampleSentence": { "transliteration": "komak! be komak niâz dâram", "german": "Hilfe! Ich brauche Hilfe.", "source": "curated" },
+    "audio": {}, "source": { "origin": "curated", "note": "Zentrales Notfallwort, gegen mehrere Online-Ressourcen geprueft (u.a. Danaa School Emergency Phrases), siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-002-doktor",
+    "category": "notfall-gesundheit",
+    "german": "Arzt, Ärztin",
+    "transliterationColloquial": "doktor",
+    "transliterationLiterary": "pezeshk",
+    "audio": {}, "source": { "origin": "curated", "note": "doktor ist die im Alltag uebliche Form, pezeshk die formellere." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-003-bimarestun",
+    "category": "notfall-gesundheit",
+    "german": "Krankenhaus",
+    "transliterationColloquial": "bimârestun",
+    "transliterationLiterary": "bimârestân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun)." },
+    "confidence": "uncertain",
+    "uncertaintyNote": "Erneut recherchiert: Keine Quelle belegt 'bimârestoon/bimârestun' konkret in kolloquialer Verwendung (Suchen nach der Perso-Arabic-Schreibung und nach 'bimarestoon' liefern nur formelle Woerterbuch-Belege fuer die literarische Form bimârestân). Die -ân-zu-un Verschiebung ist zwar als produktives Muster im Tehrani-Persisch generell bestaetigt (eine Quelle nennt sogar irân zu iroon), aber laengere, formeller wirkende Woerter widerstehen der Verschiebung teils. Bleibt bis zu einer Muttersprachler-Pruefung uncertain."
+  },
+  {
+    "id": "notfall-004-darukhune",
+    "category": "notfall-gesundheit",
+    "german": "Apotheke",
+    "transliterationColloquial": "dâru-khune",
+    "transliterationLiterary": "dâru-khâne",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung dâru (Medikament) + khâne/khune (Haus), gleicher Lautwandel wie khâne/khune." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-005-daru",
+    "category": "notfall-gesundheit",
+    "german": "Medikament",
+    "transliterationColloquial": "dâru",
+    "audio": { "reference": "audio/reference/notfall-005-daru.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-006-dard",
+    "category": "notfall-gesundheit",
+    "german": "Schmerz",
+    "transliterationColloquial": "dard",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-007-tab",
+    "category": "notfall-gesundheit",
+    "german": "Fieber",
+    "transliterationColloquial": "tab",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-008-sardard",
+    "category": "notfall-gesundheit",
+    "german": "Kopfschmerzen",
+    "transliterationColloquial": "sar-dard",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung sar (Kopf) + dard (Schmerz)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-009-deldard",
+    "category": "notfall-gesundheit",
+    "german": "Bauchschmerzen",
+    "transliterationColloquial": "del-dard",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung del (Bauch/Herz) + dard (Schmerz)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-010-ambulans",
+    "category": "notfall-gesundheit",
+    "german": "Krankenwagen",
+    "transliterationColloquial": "âmbulâns",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort, gegen mehrere Online-Ressourcen geprueft (Ruf-Phrase: âmbulâns khabar konid)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-011-polis",
+    "category": "notfall-gesundheit",
+    "german": "Polizei",
+    "transliterationColloquial": "polis",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-012-atashneshani",
+    "category": "notfall-gesundheit",
+    "german": "Feuerwehr",
+    "transliterationColloquial": "âtash-neshâni",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung âtash (Feuer) + neshâni (Adresse/Lage-Dienst)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-013-hadese",
+    "category": "notfall-gesundheit",
+    "german": "Unfall",
+    "transliterationColloquial": "hâdese",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Notfall, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-014-khun",
+    "category": "notfall-gesundheit",
+    "german": "Blut",
+    "transliterationColloquial": "khun",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-015-zakhm",
+    "category": "notfall-gesundheit",
+    "german": "Wunde",
+    "transliterationColloquial": "zakhm",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-016-shekastegi",
+    "category": "notfall-gesundheit",
+    "german": "Knochenbruch",
+    "transliterationColloquial": "shekastegi",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-017-bihush",
+    "category": "notfall-gesundheit",
+    "german": "bewusstlos",
+    "transliterationColloquial": "bihush",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-018-nafaskeshidan",
+    "category": "notfall-gesundheit",
+    "german": "atmen",
+    "transliterationColloquial": "nafas keshidan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundverb Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-019-alerji",
+    "category": "notfall-gesundheit",
+    "german": "Allergie",
+    "transliterationColloquial": "âlerji",
+    "audio": {}, "source": { "origin": "curated", "note": "Internationales Lehnwort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-020-bimari",
+    "category": "notfall-gesundheit",
+    "german": "Krankheit",
+    "transliterationColloquial": "bimâri",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-021-sorfe",
+    "category": "notfall-gesundheit",
+    "german": "Husten",
+    "transliterationColloquial": "sorfe",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-022-sarmakhordegi",
+    "category": "notfall-gesundheit",
+    "german": "Erkältung",
+    "transliterationColloquial": "sarmâkhordegi",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-023-estefragh",
+    "category": "notfall-gesundheit",
+    "german": "Erbrechen",
+    "transliterationColloquial": "estefrâgh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-024-fesharkhun",
+    "category": "notfall-gesundheit",
+    "german": "Blutdruck",
+    "transliterationColloquial": "feshâr-khun",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung feshâr (Druck) + khun (Blut)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-025-bime",
+    "category": "notfall-gesundheit",
+    "german": "Versicherung",
+    "transliterationColloquial": "bime",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Gesundheit/Verwaltung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-026-fori",
+    "category": "notfall-gesundheit",
+    "german": "dringend, sofort",
+    "transliterationColloquial": "fori",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Notfall, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-027-khatar",
+    "category": "notfall-gesundheit",
+    "german": "Gefahr",
+    "transliterationColloquial": "khatar",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Notfall, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-028-komakhayeavaliye",
+    "category": "notfall-gesundheit",
+    "german": "Erste Hilfe",
+    "transliterationColloquial": "komak-hâ-ye avvaliye",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung komak (Hilfe) + avvaliye (erste/vorlaeufig)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-029-halamkhubnist",
+    "category": "notfall-gesundheit",
+    "german": "Mir ist nicht gut",
+    "transliterationColloquial": "hâlam khub nist",
+    "audio": {}, "source": { "origin": "curated", "note": "Sehr gebraeuchliche Phrase, um Unwohlsein anzuzeigen." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-030-bekomakniazdaram",
+    "category": "notfall-gesundheit",
+    "german": "Ich brauche Hilfe",
+    "transliterationColloquial": "be komak niâz dâram",
+    "audio": {}, "source": { "origin": "curated", "note": "Zentrale Notfallphrase, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-031-zangbezanidbe",
+    "category": "notfall-gesundheit",
+    "german": "Rufen Sie ... an",
+    "transliterationColloquial": "zang bezanid be ...",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundmuster fuer Notfall-Bitten, z.B. zang bezanid be âmbulâns." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "notfall-032-khatarnak",
+    "category": "notfall-gesundheit",
+    "german": "gefährlich",
+    "transliterationColloquial": "khatarnâk",
+    "audio": {}, "source": { "origin": "curated", "note": "Adjektivform von khatar (Gefahr)." },
+    "confidence": "confirmed"
+  }
+]

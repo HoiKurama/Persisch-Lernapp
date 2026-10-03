@@ -1,0 +1,233 @@
+[
+  {
+    "id": "familie-001-madar",
+    "category": "familie-beziehungen",
+    "german": "Mutter",
+    "transliterationColloquial": "mâmân",
+    "transliterationLiterary": "mâdar",
+    "audio": {}, "source": { "origin": "curated", "note": "mâmân ist die im Alltag/direkter Anrede uebliche Form, mâdar die neutrale/literarische; gegen mehrere Online-Ressourcen geprueft (u.a. Chai and Conversation Familienlektion), siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-002-pedar",
+    "category": "familie-beziehungen",
+    "german": "Vater",
+    "transliterationColloquial": "bâbâ",
+    "transliterationLiterary": "pedar",
+    "audio": { "reference": "audio/reference/familie-002-pedar.wav" },
+    "source": { "origin": "curated", "note": "bâbâ ist die im Alltag/direkter Anrede uebliche Form, pedar die neutrale/literarische." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-003-khahar",
+    "category": "familie-beziehungen",
+    "german": "Schwester",
+    "transliterationColloquial": "khâhar",
+    "audio": { "reference": "audio/reference/familie-003-khahar.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-004-baradar",
+    "category": "familie-beziehungen",
+    "german": "Bruder",
+    "transliterationColloquial": "barâdar",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-005-pesar",
+    "category": "familie-beziehungen",
+    "german": "Sohn, Junge",
+    "transliterationColloquial": "pesar",
+    "audio": { "reference": "audio/reference/familie-005-pesar.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-006-dokhtar",
+    "category": "familie-beziehungen",
+    "german": "Tochter, Mädchen",
+    "transliterationColloquial": "dokhtar",
+    "audio": { "reference": "audio/reference/familie-006-dokhtar.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-007-zan",
+    "category": "familie-beziehungen",
+    "german": "Frau, Ehefrau",
+    "transliterationColloquial": "zan",
+    "audio": { "reference": "audio/reference/familie-007-zan.wav" },
+    "source": { "origin": "curated", "note": "Bedeutet sowohl 'Frau' allgemein als auch 'Ehefrau' je nach Kontext." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-008-shohar",
+    "category": "familie-beziehungen",
+    "german": "Ehemann",
+    "transliterationColloquial": "shohar",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-009-madarbozorg",
+    "category": "familie-beziehungen",
+    "german": "Großmutter",
+    "transliterationColloquial": "mâdar-bozorg",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung mâdar + bozorg (gross)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-010-pedarbozorg",
+    "category": "familie-beziehungen",
+    "german": "Großvater",
+    "transliterationColloquial": "pedar-bozorg",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung pedar + bozorg (gross)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-011-amu",
+    "category": "familie-beziehungen",
+    "german": "Onkel (väterlicherseits)",
+    "transliterationColloquial": "amu",
+    "audio": {}, "source": { "origin": "curated", "note": "Persisch unterscheidet nach Seite: amu = Bruder des Vaters." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-012-khale",
+    "category": "familie-beziehungen",
+    "german": "Tante (mütterlicherseits)",
+    "transliterationColloquial": "khâle",
+    "audio": {}, "source": { "origin": "curated", "note": "khâle = Schwester der Mutter." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-013-amme",
+    "category": "familie-beziehungen",
+    "german": "Tante (väterlicherseits)",
+    "transliterationColloquial": "amme",
+    "audio": {}, "source": { "origin": "curated", "note": "amme = Schwester des Vaters." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-014-dayi",
+    "category": "familie-beziehungen",
+    "german": "Onkel (mütterlicherseits)",
+    "transliterationColloquial": "dâyi",
+    "audio": {}, "source": { "origin": "curated", "note": "dâyi = Bruder der Mutter." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-015-dust",
+    "category": "familie-beziehungen",
+    "german": "Freund, Freundin (allgemein)",
+    "transliterationColloquial": "dust",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beziehungen, geschlechtsneutral." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-016-dustdokhtar",
+    "category": "familie-beziehungen",
+    "german": "Freundin (romantisch)",
+    "transliterationColloquial": "dust-dokhtar",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung dust + dokhtar, romantischer Kontext." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-017-dustpesar",
+    "category": "familie-beziehungen",
+    "german": "Freund (romantisch)",
+    "transliterationColloquial": "dust-pesar",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung dust + pesar, romantischer Kontext." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-018-hamsar",
+    "category": "familie-beziehungen",
+    "german": "Ehepartner, Ehepartnerin",
+    "transliterationColloquial": "hamsar",
+    "audio": {}, "source": { "origin": "curated", "note": "Neutrales Wort fuer Ehepartner/in, geschlechtsneutral." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-019-bache",
+    "category": "familie-beziehungen",
+    "german": "Kind",
+    "transliterationColloquial": "bache",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-020-khanevade",
+    "category": "familie-beziehungen",
+    "german": "Familie",
+    "transliterationColloquial": "khânevâde",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Familie, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-021-ezdevaj",
+    "category": "familie-beziehungen",
+    "german": "Heirat",
+    "transliterationColloquial": "ezdevâj",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beziehungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-022-tavallod",
+    "category": "familie-beziehungen",
+    "german": "Geburt, Geburtstag",
+    "transliterationColloquial": "tavallod",
+    "audio": {}, "source": { "origin": "curated", "note": "Auch fuer 'Geburtstag' in tavallodet mobârak (Alles Gute zum Geburtstag)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-023-esm",
+    "category": "familie-beziehungen",
+    "german": "Name",
+    "transliterationColloquial": "esm",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, siehe auch esme shomâ chiye in begruessung-small-talk." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-024-senn",
+    "category": "familie-beziehungen",
+    "german": "Alter",
+    "transliterationColloquial": "senn",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-025-ashna",
+    "category": "familie-beziehungen",
+    "german": "Bekannte/r",
+    "transliterationColloquial": "âshnâ",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beziehungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-026-hamkelasi",
+    "category": "familie-beziehungen",
+    "german": "Klassenkamerad, Klassenkameradin",
+    "transliterationColloquial": "hamkelâsi",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung ham- (mit-) + kelâs (Klasse), relevant fuer Lehrer-Kontext." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-027-hamkar",
+    "category": "familie-beziehungen",
+    "german": "Kollege, Kollegin",
+    "transliterationColloquial": "hamkâr",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung ham- (mit-) + kâr (Arbeit), relevant fuer Lehrer-Kontext." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "familie-028-tanha",
+    "category": "familie-beziehungen",
+    "german": "allein",
+    "transliterationColloquial": "tanhâ",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Beziehungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

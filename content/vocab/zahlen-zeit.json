@@ -1,0 +1,277 @@
+[
+  {
+    "id": "zahlen-001-yek",
+    "category": "zahlen-zeit",
+    "german": "eins",
+    "transliterationColloquial": "yek",
+    "audio": { "reference": "audio/reference/zahlen-001-yek.wav" },
+    "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft (u.a. Chai and Conversation Zahlenlektion), siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-002-do",
+    "category": "zahlen-zeit",
+    "german": "zwei",
+    "transliterationColloquial": "do",
+    "exampleSentence": { "transliteration": "man do tâ khâhar dâram", "german": "Ich habe zwei Schwestern.", "source": "curated" },
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-003-se",
+    "category": "zahlen-zeit",
+    "german": "drei",
+    "transliterationColloquial": "se",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-004-char",
+    "category": "zahlen-zeit",
+    "german": "vier",
+    "transliterationColloquial": "châr",
+    "transliterationLiterary": "chahâr",
+    "audio": {}, "source": { "origin": "curated", "note": "In schneller Umgangssprache wird chahâr zu châr verkuerzt, laut mehreren Quellen die haeufigere gesprochene Form." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-005-panj",
+    "category": "zahlen-zeit",
+    "german": "fünf",
+    "transliterationColloquial": "panj",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-006-shesh",
+    "category": "zahlen-zeit",
+    "german": "sechs",
+    "transliterationColloquial": "shesh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-007-haft",
+    "category": "zahlen-zeit",
+    "german": "sieben",
+    "transliterationColloquial": "haft",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-008-hasht",
+    "category": "zahlen-zeit",
+    "german": "acht",
+    "transliterationColloquial": "hasht",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-009-noh",
+    "category": "zahlen-zeit",
+    "german": "neun",
+    "transliterationColloquial": "noh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-010-dah",
+    "category": "zahlen-zeit",
+    "german": "zehn",
+    "transliterationColloquial": "dah",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-011-bist",
+    "category": "zahlen-zeit",
+    "german": "zwanzig",
+    "transliterationColloquial": "bist",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-012-si",
+    "category": "zahlen-zeit",
+    "german": "dreißig",
+    "transliterationColloquial": "si",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-013-sad",
+    "category": "zahlen-zeit",
+    "german": "hundert",
+    "transliterationColloquial": "sad",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundzahl, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-014-shanbe",
+    "category": "zahlen-zeit",
+    "german": "Samstag (erster Wochentag in Iran)",
+    "transliterationColloquial": "shanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Iranische Woche beginnt Samstag, endet Freitag; gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-015-yekshanbe",
+    "category": "zahlen-zeit",
+    "german": "Sonntag",
+    "transliterationColloquial": "yekshanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'erster Tag', gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-016-doshanbe",
+    "category": "zahlen-zeit",
+    "german": "Montag",
+    "transliterationColloquial": "doshanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'zweiter Tag', gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-017-seshanbe",
+    "category": "zahlen-zeit",
+    "german": "Dienstag",
+    "transliterationColloquial": "seshanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'dritter Tag', gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-018-chaharshanbe",
+    "category": "zahlen-zeit",
+    "german": "Mittwoch",
+    "transliterationColloquial": "chahârshanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'vierter Tag', gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-019-panjshanbe",
+    "category": "zahlen-zeit",
+    "german": "Donnerstag",
+    "transliterationColloquial": "panjshanbe",
+    "audio": {}, "source": { "origin": "curated", "note": "Woertlich 'fuenfter Tag', gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-020-jome",
+    "category": "zahlen-zeit",
+    "german": "Freitag",
+    "transliterationColloquial": "jom'e",
+    "audio": {}, "source": { "origin": "curated", "note": "Letzter Tag der iranischen Woche, arabisches Lehnwort; gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-021-emruz",
+    "category": "zahlen-zeit",
+    "german": "heute",
+    "transliterationColloquial": "emruz",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-022-farda",
+    "category": "zahlen-zeit",
+    "german": "morgen",
+    "transliterationColloquial": "fardâ",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-023-diruz",
+    "category": "zahlen-zeit",
+    "german": "gestern",
+    "transliterationColloquial": "diruz",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-024-alan",
+    "category": "zahlen-zeit",
+    "german": "jetzt",
+    "transliterationColloquial": "alân",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-025-badan",
+    "category": "zahlen-zeit",
+    "german": "später",
+    "transliterationColloquial": "ba'dan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-026-saatchand",
+    "category": "zahlen-zeit",
+    "german": "Wie spät ist es?",
+    "transliterationColloquial": "sâat chand-e?",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundfrage nach der Uhrzeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-027-daghighe",
+    "category": "zahlen-zeit",
+    "german": "Minute",
+    "transliterationColloquial": "daghighe",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-028-saat",
+    "category": "zahlen-zeit",
+    "german": "Stunde, Uhr",
+    "transliterationColloquial": "sâat",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gleiches Wort wie fuer die Uhr als Gegenstand." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-029-hafte",
+    "category": "zahlen-zeit",
+    "german": "Woche",
+    "transliterationColloquial": "hafte",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-030-mah",
+    "category": "zahlen-zeit",
+    "german": "Monat",
+    "transliterationColloquial": "mâh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-031-sal",
+    "category": "zahlen-zeit",
+    "german": "Jahr",
+    "transliterationColloquial": "sâl",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-032-sobh",
+    "category": "zahlen-zeit",
+    "german": "Morgen (Tageszeit)",
+    "transliterationColloquial": "sobh",
+    "audio": {}, "source": { "origin": "curated", "note": "Tageszeit, nicht zu verwechseln mit fardâ (der Tag morgen)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-033-zohr",
+    "category": "zahlen-zeit",
+    "german": "Mittag",
+    "transliterationColloquial": "zohr",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "zahlen-034-shab",
+    "category": "zahlen-zeit",
+    "german": "Nacht, Abend",
+    "transliterationColloquial": "shab",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Zeit, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

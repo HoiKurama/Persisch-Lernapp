@@ -1,0 +1,281 @@
+[
+  {
+    "id": "begruessung-001-salam",
+    "category": "begruessung-small-talk",
+    "german": "Hallo",
+    "transliterationColloquial": "salâm",
+    "audio": { "reference": "audio/reference/begruessung-001-salam.ogg" },
+    "source": { "origin": "curated", "note": "Standardgruss, gegen mehrere Online-Ressourcen geprueft, siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-002-khodahafez",
+    "category": "begruessung-small-talk",
+    "german": "Auf Wiedersehen",
+    "transliterationColloquial": "khodâhâfez",
+    "audio": { "reference": "audio/reference/begruessung-002-khodahafez.wav" },
+    "source": { "origin": "curated", "note": "Standardverabschiedung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-003-bale",
+    "category": "begruessung-small-talk",
+    "german": "Ja",
+    "transliterationColloquial": "bale",
+    "audio": { "reference": "audio/reference/begruessung-003-bale.ogg" },
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-004-na",
+    "category": "begruessung-small-talk",
+    "german": "Nein",
+    "transliterationColloquial": "na",
+    "audio": { "reference": "audio/reference/begruessung-004-na.ogg" },
+    "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-005-lotfan",
+    "category": "begruessung-small-talk",
+    "german": "Bitte (bei einer Bitte)",
+    "transliterationColloquial": "lotfan",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-006-merci",
+    "category": "begruessung-small-talk",
+    "german": "Danke",
+    "transliterationColloquial": "merci",
+    "transliterationLiterary": "moteshakkeram",
+    "audio": {}, "source": { "origin": "curated", "note": "Umgangssprachlich aus dem Franzoesischen entlehnt, sehr gebraeuchlich; formelle Form moteshakkeram." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-007-bebakhshid",
+    "category": "begruessung-small-talk",
+    "german": "Entschuldigung",
+    "transliterationColloquial": "bebakhshid",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-008-chetori",
+    "category": "begruessung-small-talk",
+    "german": "Wie geht's? (informell)",
+    "transliterationColloquial": "chetori?",
+    "transliterationLiterary": "chetor hasti?",
+    "audio": {}, "source": { "origin": "curated", "note": "Sehr gebraeuchliche informelle Frageform, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-009-khoobam",
+    "category": "begruessung-small-talk",
+    "german": "Mir geht's gut, danke",
+    "transliterationColloquial": "khoobam, merci",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengige Antwort auf chetori, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-010-esme-shoma",
+    "category": "begruessung-small-talk",
+    "german": "Wie heißen Sie?",
+    "transliterationColloquial": "esme shomâ chiye?",
+    "transliterationLiterary": "esme shomâ chist?",
+    "audio": {}, "source": { "origin": "curated", "note": "Hoefliche Frageform, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-011-khoshbakhtam",
+    "category": "begruessung-small-talk",
+    "german": "Freut mich (bei einer Vorstellung)",
+    "transliterationColloquial": "khoshbakhtam",
+    "audio": {}, "source": { "origin": "curated", "note": "Standardformel bei Vorstellungen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-012-sobhbekheir",
+    "category": "begruessung-small-talk",
+    "german": "Guten Morgen",
+    "transliterationColloquial": "sobh bekheir",
+    "audio": {}, "source": { "origin": "curated", "note": "Standardgruss, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-013-asrbekheir",
+    "category": "begruessung-small-talk",
+    "german": "Guten Tag (Nachmittagsgruß)",
+    "transliterationColloquial": "asr bekheir",
+    "audio": {}, "source": { "origin": "curated", "note": "Nachmittagsgruss, seltener als sobh/shab bekheir, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-014-shabbekheir",
+    "category": "begruessung-small-talk",
+    "german": "Gute Nacht",
+    "transliterationColloquial": "shab bekheir",
+    "audio": {}, "source": { "origin": "curated", "note": "Standardgruss zur Verabschiedung am Abend, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-015-felan",
+    "category": "begruessung-small-talk",
+    "german": "Bis dann (informell)",
+    "transliterationColloquial": "felan",
+    "audio": {}, "source": { "origin": "curated", "note": "Informelle Kurzverabschiedung unter Bekannten, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-016-khaheshmikonam",
+    "category": "begruessung-small-talk",
+    "german": "Bitte, gern geschehen (Antwort auf Danke)",
+    "transliterationColloquial": "khâhesh mikonam",
+    "audio": {}, "source": { "origin": "curated", "note": "Standardantwort auf merci/moteshakkeram, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-017-khoobi",
+    "category": "begruessung-small-talk",
+    "german": "Geht's dir gut? (informell)",
+    "transliterationColloquial": "khoobi?",
+    "audio": {}, "source": { "origin": "curated", "note": "Informelle Variante von chetori, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-018-chetorhastid",
+    "category": "begruessung-small-talk",
+    "german": "Wie geht es Ihnen? (formell)",
+    "transliterationColloquial": "chetor hastid?",
+    "audio": {}, "source": { "origin": "curated", "note": "Formelle Anrede mit shomâ-Form, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-019-shomachetorid",
+    "category": "begruessung-small-talk",
+    "german": "Und Ihnen? (Rückfrage, formell)",
+    "transliterationColloquial": "shomâ chetorid?",
+    "audio": {}, "source": { "origin": "curated", "note": "Uebliche Rueckfrage nach eigener Antwort, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-020-esmeman",
+    "category": "begruessung-small-talk",
+    "german": "Ich heiße ... (informell)",
+    "transliterationColloquial": "esme man ... e",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundmuster zur Selbstvorstellung, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-021-ahlekoja",
+    "category": "begruessung-small-talk",
+    "german": "Woher kommen Sie?",
+    "transliterationColloquial": "ahle kojâ hastid?",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengige Small-Talk-Frage, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-022-manmoallemam",
+    "category": "begruessung-small-talk",
+    "german": "Ich bin Lehrer/Lehrerin",
+    "transliterationColloquial": "man moallemam",
+    "audio": {}, "source": { "origin": "curated", "note": "Berufsangabe, direkt fuer den Lehrer-Kontext des Nutzers relevant." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-023-azdidanetkhoshhalam",
+    "category": "begruessung-small-talk",
+    "german": "Ich freue mich, dich zu sehen (informell)",
+    "transliterationColloquial": "az didanet khoshhâlam",
+    "audio": {}, "source": { "origin": "curated", "note": "Informelle Variante zu khoshbakhtam, fuer bereits bekannte Personen. Bestaetigt durch persianwithel.com (Glossar-Eintrag genau zu dieser Phrase) und chaiandconversation.com (Woerterbuch)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-024-movazebkhodet",
+    "category": "begruessung-small-talk",
+    "german": "Pass auf dich auf (informell)",
+    "transliterationColloquial": "movâzeb khodet bâsh",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengige Abschiedsfloskel, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-025-movaffaghbashid",
+    "category": "begruessung-small-talk",
+    "german": "Viel Erfolg",
+    "transliterationColloquial": "movaffagh bâshid",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengiger Wunsch, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-026-tabrikmigam",
+    "category": "begruessung-small-talk",
+    "german": "Herzlichen Glückwunsch",
+    "transliterationColloquial": "tabrik migam",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengige Gratulationsformel, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-027-besalamati",
+    "category": "begruessung-small-talk",
+    "german": "Zum Wohl (Trinkspruch)",
+    "transliterationColloquial": "be salâmati",
+    "audio": {}, "source": { "origin": "curated", "note": "Gaengiger Trinkspruch/Anstossformel, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-028-chikhabar",
+    "category": "begruessung-small-talk",
+    "german": "Was gibt's Neues? (informell)",
+    "transliterationColloquial": "chi khabar?",
+    "audio": {}, "source": { "origin": "curated", "note": "Sehr gebraeuchliche informelle Small-Talk-Frage." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-029-hichi",
+    "category": "begruessung-small-talk",
+    "german": "Nichts Besonderes (Antwort auf 'chi khabar?')",
+    "transliterationColloquial": "hichi",
+    "audio": {}, "source": { "origin": "curated", "note": "Uebliche knappe Antwort auf chi khabar." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-030-shayad",
+    "category": "begruessung-small-talk",
+    "german": "Vielleicht",
+    "transliterationColloquial": "shâyad",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-031-albatte",
+    "category": "begruessung-small-talk",
+    "german": "Natürlich, klar",
+    "transliterationColloquial": "albatte",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-032-nemifahmam",
+    "category": "begruessung-small-talk",
+    "german": "Ich verstehe nicht",
+    "transliterationColloquial": "nemifahmam",
+    "audio": {}, "source": { "origin": "curated", "note": "Wichtige Notfall-Small-Talk-Phrase beim Sprachenlernen." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-033-angilisibaladid",
+    "category": "begruessung-small-talk",
+    "german": "Können Sie Englisch? (formell)",
+    "transliterationColloquial": "angilisi baladid?",
+    "audio": {}, "source": { "origin": "curated", "note": "'balad budan' (koennen/kennen) ist die umgangssprachlich uebliche Konstruktion, nicht harf zadan." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "begruessung-034-khoshamadid",
+    "category": "begruessung-small-talk",
+    "german": "Willkommen",
+    "transliterationColloquial": "khosh âmadid",
+    "audio": {}, "source": { "origin": "curated", "note": "Standardbegruessungsformel, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]

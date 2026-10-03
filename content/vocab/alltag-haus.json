@@ -1,0 +1,277 @@
+[
+  {
+    "id": "alltag-001-ab",
+    "category": "alltag-haus",
+    "german": "Wasser",
+    "transliterationColloquial": "âb",
+    "audio": { "reference": "audio/reference/alltag-001-ab.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz, allgemein bekannt und gegen mehrere Online-Ressourcen geprueft, siehe SOURCES.md." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-002-nun",
+    "category": "alltag-haus",
+    "german": "Brot",
+    "transliterationColloquial": "nun",
+    "transliterationLiterary": "nân",
+    "audio": {}, "source": { "origin": "curated", "note": "Bekannter aa-zu-u Lautwandel in der Umgangssprache (nân -> nun), gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-003-khune",
+    "category": "alltag-haus",
+    "german": "Haus, Zuhause",
+    "transliterationColloquial": "khune",
+    "transliterationLiterary": "khâne",
+    "exampleSentence": { "transliteration": "in khune-ye man-e", "german": "Das ist mein Haus.", "source": "curated" },
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -âne zu -une (wie khâne/khune), sehr gebraeuchliches Wort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-004-otagh",
+    "category": "alltag-haus",
+    "german": "Zimmer",
+    "transliterationColloquial": "otâgh",
+    "audio": { "reference": "audio/reference/alltag-004-otagh.wav" },
+    "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-005-dar",
+    "category": "alltag-haus",
+    "german": "Tür",
+    "transliterationColloquial": "dar",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-006-panjere",
+    "category": "alltag-haus",
+    "german": "Fenster",
+    "transliterationColloquial": "panjere",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-007-miz",
+    "category": "alltag-haus",
+    "german": "Tisch",
+    "transliterationColloquial": "miz",
+    "audio": { "reference": "audio/reference/alltag-007-miz.wav" },
+    "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-008-sandali",
+    "category": "alltag-haus",
+    "german": "Stuhl",
+    "transliterationColloquial": "sandali",
+    "audio": { "reference": "audio/reference/alltag-008-sandali.wav" },
+    "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-009-takht",
+    "category": "alltag-haus",
+    "german": "Bett",
+    "transliterationColloquial": "takht",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-010-ashpazkhune",
+    "category": "alltag-haus",
+    "german": "Küche",
+    "transliterationColloquial": "âshpazkhune",
+    "transliterationLiterary": "âshpazkhâne",
+    "audio": {}, "source": { "origin": "curated", "note": "Zusammensetzung aus 'âshpaz' (Koch) + 'khâne/khune' (Haus), gleicher -âne/-une Lautwandel wie khune." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-011-hammum",
+    "category": "alltag-haus",
+    "german": "Bad, Badezimmer",
+    "transliterationColloquial": "hammum",
+    "transliterationLiterary": "hammâm",
+    "audio": {}, "source": { "origin": "curated", "note": "Kolloquiale Aussprache mit -âm zu -um Verschiebung, gebraeuchliches Alltagswort. Bestaetigt durch chaiandconversation.com (Woerterbucheintrag 'hamoom' sowie die Beispielphrase 'meekhâm hamoom konam')." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-012-dastshuyi",
+    "category": "alltag-haus",
+    "german": "Toilette",
+    "transliterationColloquial": "dastshuyi",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-013-cheragh",
+    "category": "alltag-haus",
+    "german": "Lampe, Licht",
+    "transliterationColloquial": "cherâgh",
+    "exampleSentence": { "transliteration": "cherâgh-o roshan kon", "german": "Mach das Licht an.", "source": "curated" },
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-014-kelid",
+    "category": "alltag-haus",
+    "german": "Schlüssel",
+    "transliterationColloquial": "kelid",
+    "audio": { "reference": "audio/reference/alltag-014-kelid.wav" },
+    "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-015-mashin",
+    "category": "alltag-haus",
+    "german": "Auto",
+    "transliterationColloquial": "mâshin",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz Wohnen/Mobilitaet, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-016-khiyabun",
+    "category": "alltag-haus",
+    "german": "Straße",
+    "transliterationColloquial": "khiyâbun",
+    "transliterationLiterary": "khiyâbân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun), sehr gebraeuchliches Wort." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-017-gushi",
+    "category": "alltag-haus",
+    "german": "Handy",
+    "transliterationColloquial": "gushi",
+    "audio": {}, "source": { "origin": "curated", "note": "Umgangssprachliches Wort fuer Mobiltelefon (woertlich 'Hoerer'), gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-018-pul",
+    "category": "alltag-haus",
+    "german": "Geld",
+    "transliterationColloquial": "pul",
+    "audio": { "reference": "audio/reference/alltag-018-pul.wav" },
+    "source": { "origin": "curated", "note": "Alltagswortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-019-gerun",
+    "category": "alltag-haus",
+    "german": "teuer",
+    "transliterationColloquial": "gerun",
+    "transliterationLiterary": "gerân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-020-arzun",
+    "category": "alltag-haus",
+    "german": "billig",
+    "transliterationColloquial": "arzun",
+    "transliterationLiterary": "arzân",
+    "audio": {}, "source": { "origin": "curated", "note": "Produktiver kolloquialer Lautwandel -ân zu -un (wie nân/nun)." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-021-bozorg",
+    "category": "alltag-haus",
+    "german": "groß",
+    "transliterationColloquial": "bozorg",
+    "audio": { "reference": "audio/reference/alltag-021-bozorg.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-022-kuchik",
+    "category": "alltag-haus",
+    "german": "klein",
+    "transliterationColloquial": "kuchik",
+    "transliterationLiterary": "kuchak",
+    "audio": {}, "source": { "origin": "curated", "note": "Kolloquiale Endung -ik statt literarisch -ak, gaengige Alltagsform." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-023-khub",
+    "category": "alltag-haus",
+    "german": "gut",
+    "transliterationColloquial": "khub",
+    "audio": { "reference": "audio/reference/alltag-023-khub.wav" },
+    "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-024-bad",
+    "category": "alltag-haus",
+    "german": "schlecht",
+    "transliterationColloquial": "bad",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-025-dagh",
+    "category": "alltag-haus",
+    "german": "heiß",
+    "transliterationColloquial": "dâgh",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-026-sard",
+    "category": "alltag-haus",
+    "german": "kalt",
+    "transliterationColloquial": "sard",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-027-tamiz",
+    "category": "alltag-haus",
+    "german": "sauber",
+    "transliterationColloquial": "tamiz",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-028-kasif",
+    "category": "alltag-haus",
+    "german": "schmutzig",
+    "transliterationColloquial": "kasif",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz Adjektive, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-029-no",
+    "category": "alltag-haus",
+    "german": "neu",
+    "transliterationColloquial": "no",
+    "transliterationLiterary": "jadid",
+    "audio": {}, "source": { "origin": "curated", "note": "'no' ist die im Alltag uebliche Form (z.B. maashin-e no), 'jadid' ist die formellere/literarische Variante." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-030-ghadimi",
+    "category": "alltag-haus",
+    "german": "alt (Gegenstände)",
+    "transliterationColloquial": "ghadimi",
+    "audio": {}, "source": { "origin": "curated", "note": "Fuer Gegenstaende/Gebaeude, nicht fuer Personen (dort 'pir'). Gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-031-saat",
+    "category": "alltag-haus",
+    "german": "Uhr",
+    "transliterationColloquial": "sâat",
+    "audio": {}, "source": { "origin": "curated", "note": "Grundwortschatz, auch als Zeiteinheit relevant, siehe zahlen-zeit." },
+    "confidence": "confirmed"
+  },
+  {
+    "id": "alltag-032-lebas",
+    "category": "alltag-haus",
+    "german": "Kleidung",
+    "transliterationColloquial": "lebâs",
+    "audio": {}, "source": { "origin": "curated", "note": "Alltagswortschatz, gegen mehrere Online-Ressourcen geprueft." },
+    "confidence": "confirmed"
+  }
+]
